@@ -1,1 +1,3 @@
-# RDCViagens
+# API-Bankin
+paradigmas: OOP.
+Funcional.
